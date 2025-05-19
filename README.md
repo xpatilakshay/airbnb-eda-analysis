@@ -1,7 +1,7 @@
 # Airbnb EDA Project
 
 ## 📋 Project Description
-This project is part of a **Data Analyst Internship Task 5** focused on **Exploratory Data Analysis (EDA)**.  
+This project is part of a **Data Analyst Internship Task ** focused on **Exploratory Data Analysis (EDA)**.  
 The objective is to extract insights, find patterns, and perform visual exploration of an Airbnb dataset using Python.
 
 ## 📚 Dataset Used
